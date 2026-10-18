@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Edge Browser Control",
+    "description": "Reads and operates web pages in Microsoft Edge: extracts page text, headings and links, then clicks, types, scrolls, evaluates JavaScript and captures screenshots in an isolated automation profile."
+  }
+}

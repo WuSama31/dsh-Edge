@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Edge 浏览器控制",
+    "description": "在 Microsoft Edge 中读取并操作网页：提取正文、标题与链接，并可点击、输入、滚动、执行 JavaScript 与截图，使用独立的自动化配置文件。"
+  }
+}

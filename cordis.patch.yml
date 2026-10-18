@@ -1,0 +1,12 @@
+- insert:
+    - id: dsh-edge-browser
+      name: '@local/dsh-edge-browser'
+      config:
+        port: 9333
+        # browserPath: 'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe'
+        # userDataDir: '%LOCALAPPDATA%\dsh-browser\edge-profile'
+        # outputDir: '%USERPROFILE%\dsh-browser'
+        # headless: false
+        # windowSize: '1440,960'
+        # navigationTimeoutMs: 15000
+        # maxChars: 20000
